@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "user_uuid": "a57b38e8-0bf7-40ee-af8b-b17b2080fb33",
+      "user_name": "Code with Arun",
+      "handle": "ArunKumar",
+      "bio": "I make websites and Web Applications",
+      "link": "https://www.facebook.com/profile.php?id=100093107754162&mibextid=ZbWKwL",
+      "img": "https://images.pexels.com/photos/114907/pexels-photo-114907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "instagram_url": "https://www.instagram.com/hi_arun_here/",
+      "followers": [
+        {
+          "user_uuid": "969f1725-e229-48ca-af9a-63f387bbc706"
+        },
+        {
+          "user_uuid": "c18aafb8-2089-4ad9-b2fc-777f0e52b30e"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "user_uuid": "969f1725-e229-48ca-af9a-63f387bbc706",
+      "user_name": "Burger king",
+      "handle": "BurgerKing",
+      "bio": "If Burgers are your thing, Then look no further",
+      "link": "https://www.burgerking.in/",
+      "img": "https://images.pexels.com/photos/1233720/pexels-photo-1233720.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "instagram_url": "https://www.instagram.com/burgerkingindia/",
+      "followers": [
+        {
+          "user_uuid": "a57b38e8-0bf7-40ee-af8b-b17b2080fb33"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "user_uuid": "c18aafb8-2089-4ad9-b2fc-777f0e52b30e",
+      "user_name": "karthik raj",
+      "handle": "karthik truthsayer",
+      "bio": "photographer who see world through lens",
+      "link": "",
+      "img": "https://images.pexels.com/photos/1728163/pexels-photo-1728163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "instagram_url": "https://www.instagram.com/karthikraja/",
+      "followers": [
+        {
+          "user_uuid": "a57b38e8-0bf7-40ee-af8b-b17b2080fb33"
+        }
+      ]
+    }
+  ],
+  "threads": [
+    {
+      "id": 0,
+      "time_stamp": "Fri Aug 25 2023 07:12:11 GMT+0530 (India Standard Time)",
+      "thread_from": "a57b38e8-0bf7-40ee-af8b-b17b2080fb33",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Hello world (of threads)",
+      "likes": []
+    },
+    {
+      "id": 1,
+      "time_stamp": "Fri Aug 25 2023 18:14:11 GMT+0530 (India Standard Time)",
+      "thread_from": "a57b38e8-0bf7-40ee-af8b-b17b2080fb33",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Awesome Thread!",
+      "likes": []
+    },
+    {
+      "id": 2,
+      "time_stamp": "Fri Aug 25 2023 18:30:11 GMT+0530 (India Standard Time)",
+      "thread_from": "a57b38e8-0bf7-40ee-af8b-b17b2080fb33",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Another One!",
+      "likes": []
+    },
+    {
+      "id": 3,
+      "time_stamp": "Fri Aug 25 2023 19:30:11 GMT+0530 (India Standard Time)",
+      "thread_from": "969f1725-e229-48ca-af9a-63f387bbc706",
+      "thread_to": null,
+      "reply_to": null,
+      "text": "Excited to have launched Burger King!",
+      "likes": []
+    },
+    {
+      "id": 4,
+      "time_stamp": "Fri Aug 25 2023 19:31:11 GMT+0530 (India Standard Time)",
+      "thread_from": "a57b38e8-0bf7-40ee-af8b-b17b2080fb33",
+      "thread_to": "969f1725-e229-48ca-af9a-63f387bbc706",
+      "reply_to": 3,
+      "text": "Congrats!",
+      "likes": []
+    },
+    {
+      "id": 5,
+      "time_stamp": "Fri Aug 25 2023 20:31:11 GMT+0530 (India Standard Time)",
+      "thread_from": "969f1725-e229-48ca-af9a-63f387bbc706",
+      "thread_to": "a57b38e8-0bf7-40ee-af8b-b17b2080fb33",
+      "reply_to": 0,
+      "text": "Hiyaa!",
+      "likes": []
+    }
+  ]
+}
